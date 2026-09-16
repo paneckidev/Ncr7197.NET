@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Ncr7197.NET/Ncr7197.NET.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Ncr7197.NET.Tests/Ncr7197.NET.Tests.csproj" />
+  </Folder>
+  <Project Path="Ncr7197.DeviceTest/Ncr7197.DeviceTest.csproj" />
+</Solution>
